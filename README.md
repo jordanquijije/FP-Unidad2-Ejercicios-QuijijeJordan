@@ -3,7 +3,7 @@
 
 - **Nombre:** Jordan Fernando Quijije Morales
 - **NRC:** 37712
-- **Carrera:** Ingeniería Civil
+- **Carrera:** Ingeniería en Tecnologías de la información
 
 ## Estado de los ejercicios
 
